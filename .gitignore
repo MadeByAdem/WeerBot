@@ -1,0 +1,5 @@
+.env
+encryption.py
+users_lists
+logs
+__pycache__

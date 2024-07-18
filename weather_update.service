@@ -1,0 +1,12 @@
+[Unit]
+Description=Weather Update
+After=network.target
+
+[Service]
+ExecStart=/your/path/to/weather_bot/venv/bin/python /your/path/to/weather_bot/weather_update.py
+WorkingDirectory=/your/path/to/weather_bot
+User=root
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
