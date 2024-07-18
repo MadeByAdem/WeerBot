@@ -37,7 +37,7 @@ This project is an addition to my Nest Project, but works as a standalone as wel
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/weather_bot.git
+    git clone https://github.com/MadeByAdem/WeerBot
     cd archive_bot
     ```
 
