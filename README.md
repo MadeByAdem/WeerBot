@@ -38,7 +38,7 @@ This project is an addition to my Nest Project, but works as a standalone as wel
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/MadeByAdem/WeerBot
-    cd archive_bot
+    cd WeerBot
     ```
 
 2. **Create a virtual environment and activate it:**
